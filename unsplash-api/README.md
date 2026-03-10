@@ -1,24 +1,26 @@
-# README
+>[!NOTE]
+> Built as part of [The Odin Project](https://www.theodinproject.com/) curriculum.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## About The Project
 
-* Ruby version
 
-* System dependencies
+Photo browser consuming the Unsplash API.
 
-* Configuration
+### Built With
+* ![Rails]
 
-* Database creation
+* ![HTML5]
+* ![CSS]
 
-* Database initialization
+<!-- LICENSE -->
+## License
 
-* How to run the test suite
+This project is for educational purposes only.
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
+[Ruby]: https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white
+[JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[CSS]: https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white
+[Rails]: https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white
