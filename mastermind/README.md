@@ -1,10 +1,23 @@
-# Mastermind Game
+>[!NOTE]
+> Built as part of [The Odin Project](https://www.theodinproject.com/) curriculum.
 
-Mastermind is a popular board game where one player sets a secret code, and the other player tries to guess the code within a limited number of attempts. In this implementation, you can either be the code breaker or the code maker.
 
-## How to Play
+## About The Project
 
-1. You can choose whether to be the **Code Breaker** or **Code Maker**.
-2. The **Code Breaker** has to guess the secret code, and after each guess, the **Code Maker** provides feedback with the number of black and white pegs.
-3. The **Code Maker** provides a secret code, and the **Code Breaker** must guess it by providing feedback based on their guesses.
-s
+
+Command-line Mastermind with 12 turns to crack a color code.
+
+### Built With
+* ![Ruby]
+
+<!-- LICENSE -->
+## License
+
+This project is for educational purposes only.
+
+
+[Ruby]: https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white
+[JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[CSS]: https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white
+[Rails]: https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white
