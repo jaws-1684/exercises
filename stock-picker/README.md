@@ -1,16 +1,23 @@
-# Stock Picker
+>[!NOTE]
+> Built as part of [The Odin Project](https://www.theodinproject.com/) curriculum.
 
-This Ruby script contains the `stock_picker` method, which finds the best days to buy and sell stocks for maximum profit from an array of stock prices.
 
-## How It Works
-The `stock_picker` method takes an array of stock prices as input and returns:
-1. The maximum profit (best sell value).
-2. The days (indices) to buy and sell for that maximum profit.
+## About The Project
 
-### Example
 
-```ruby
-arr = [17, 3, 6, 9, 15, 8, 6, 1, 10]
-best_sell, best_days = stock_picker(arr)
-puts "Best Sell: #{best_sell}"
-puts "Best Days: #{best_days.inspect}"
+Returns the optimal buy/sell days from a price array.
+
+### Built With
+* ![Ruby]
+
+<!-- LICENSE -->
+## License
+
+This project is for educational purposes only.
+
+
+[Ruby]: https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white
+[JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[CSS]: https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white
+[Rails]: https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white
