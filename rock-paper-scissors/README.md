@@ -1,26 +1,24 @@
-/*
-# Rock, Paper, Scissors Game
+>[!NOTE]
+> Built as part of [The Odin Project](https://www.theodinproject.com/) curriculum.
 
-## Overview
 
-A simple game where a human player competes against the computer in Rock, Paper, Scissors until one reaches five points.
+## About The Project
 
-## Features
 
-- Player chooses Rock, Paper, or Scissors.
-- Computer randomly selects an option.
-- Scores are tracked for both players.
+RPS game played against the computer in the browser.
 
-## Code Structure
+### Built With
+* ![HTML5]
+* ![CSS]
 
-- **Variables:**
-  - `let humanScore = 0;` - Player's score.
-  - `let computerScore = 0;` - Computer's score.
+<!-- LICENSE -->
+## License
 
-- **Functions:**
-  - `getComputerChoice()`: Returns computer's choice.
-  - `getHumanChoice()`: Prompts player for input.
-  - `playRound(humanChoice, computerChoice)`: Determines round winner.
-  - `playGame()`: Controls game flow until a player scores five.
+This project is for educational purposes only.
 
-*/
+
+[Ruby]: https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white
+[JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[CSS]: https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white
+[Rails]: https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white
