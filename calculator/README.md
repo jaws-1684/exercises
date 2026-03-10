@@ -1,27 +1,24 @@
-# Calculator
-
-A simple calculator application built with HTML, CSS, and JavaScript.
-
-## Features
-
-- **Basic Operations:** Perform addition, subtraction, multiplication, division, and modulo operations.
+>[!NOTE]
+> Built as part of [The Odin Project](https://www.theodinproject.com/) curriculum.
 
 
+## About The Project
 
-## Technologies Used
 
-- **HTML:** Structure of the web page.
-- **CSS:** Styling and layout of the calculator.
-- **JavaScript:** Logic for calculator operations and interactivity.
+On-screen calculator.
 
-## How to Use
+### Built With
+* ![HTML5]
+* ![CSS]
 
-You can use the following keys to interact with the calculator:
+<!-- LICENSE -->
+## License
 
-- **Number Keys:** `0-9` for numbers.
-- **Operators:** `+`, `-`, `*`, `/`, `%` for basic operations.
-- **Decimal:** `.` for decimal points.
-- **Enter/Return:** `=` for equal (calculate).
-- **Escape:** `C` to clear.
-- **Backspace:** Use the backspace key to delete the last entered digit.
+This project is for educational purposes only.
 
+
+[Ruby]: https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white
+[JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[CSS]: https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white
+[Rails]: https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white
