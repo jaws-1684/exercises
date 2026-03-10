@@ -1,24 +1,24 @@
-# Etch-a-Sketch
-
-## Overview
-This project is a simple **Etch-a-Sketch** application built using HTML, CSS, and JavaScript. It allows users to create drawings on a grid by hovering or clicking with their mouse.
-
-## Features
-- Customizable grid size.
-- Clear/reset button to start fresh.
-- Adjustable drawing colors.
-- Option to enable/disable grid lines.
-
-## How to Use
-1. Open the `index.html` file in your browser.
-2. Adjust the grid size or settings as desired.
-3. Click and drag the mouse over the grid to draw.
-4. Use the clear button to reset the canvas.
-
-## Files
-- **index.html**: The main structure of the app.
-- **styles.css**: Contains the styling for the application.
-- **main.js**: Includes all the functionality and interactions.
+>[!NOTE]
+> Built as part of [The Odin Project](https://www.theodinproject.com/) curriculum.
 
 
+## About The Project
 
+
+Browser sketchpad built with DOM manipulation.
+
+### Built With
+* ![HTML5]
+* ![CSS]
+
+<!-- LICENSE -->
+## License
+
+This project is for educational purposes only.
+
+
+[Ruby]: https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white
+[JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[CSS]: https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white
+[Rails]: https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white
