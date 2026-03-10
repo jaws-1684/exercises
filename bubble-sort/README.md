@@ -1,9 +1,23 @@
-# Bubble Sort
+>[!NOTE]
+> Built as part of [The Odin Project](https://www.theodinproject.com/) curriculum.
 
-This repository contains an implementation of the **Bubble Sort** algorithm in Ruby. It sorts an array of numbers in ascending order by repeatedly comparing adjacent elements and swapping them if they are in the wrong order. The process continues until the array is sorted.
 
-## How It Works
+## About The Project
 
-1. The script iterates over the array repeatedly.
-2. In each iteration, it compares adjacent elements and swaps them if necessary.
-3. The loop continues until no swaps are made, indicating that the array is fully sorted.
+
+Bubble sort implementation in Ruby.
+
+### Built With
+* ![Ruby]
+
+<!-- LICENSE -->
+## License
+
+This project is for educational purposes only.
+
+
+[Ruby]: https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white
+[JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[CSS]: https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white
+[Rails]: https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white
