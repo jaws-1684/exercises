@@ -5,10 +5,14 @@
 ## About The Project
 
 
-Two-player Tic-Tac-Toe in the browser (JS) and terminal (Ruby).
+Two versions of Tic-Tac-Toe game played in the browser (JS) and terminal (Ruby).
 
 ### Built With
-
+* ![Ruby]
+* ![JavaScript]
+* ![HTML5]
+* ![CSS]
+* ![Rails]
 
 <!-- LICENSE -->
 ## License
